@@ -45,8 +45,8 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 /*
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:
+Developed by: DINESH KUMAR R
+RegisterNumber:212222110010
 module expression(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
